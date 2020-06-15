@@ -1,4 +1,4 @@
-<h3>Gurkan Kilic Personal Web Site</h3>
+<h3>Gurkan Kilic Personal Web Site - 2020</h3>
 <p>Html5 with Material Design</p>
 
 <br>
@@ -10,7 +10,7 @@
   </a>
 </p>
 <p>
-<a href="https://google.github.io/material-design-icons/">
+  <a href="https://google.github.io/material-design-icons/">
     <h5>Material Design Icons</h2>
   </a>
 </p>
