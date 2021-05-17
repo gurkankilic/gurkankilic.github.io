@@ -1,6 +1,6 @@
 <h3>Gurkan Kilic Personal Web Site - 2020</h3>
 <p>Html5 with Material Design</p>
-<a href="gurkankilic.com"/></a>
+<a href="gurkankilic.com"/>gurkankilic.com</a>
 
 <br>
 
